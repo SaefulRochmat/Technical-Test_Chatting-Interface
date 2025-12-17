@@ -1,13 +1,13 @@
-# 💬 Chat Application - Next.js 14 App Router
+# 💬 Chat Application - Next.js 16 App Router
 
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-14.0-black?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/React-18.2-blue?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Next.js](https://img.shields.io/badge/Next.js-16.0-black?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-19.2-blue?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-4-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-Aplikasi chat modern dan responsif yang dibangun dengan Next.js 14 App Router, React, dan Tailwind CSS. Mendukung berbagai jenis pesan termasuk teks, gambar, video, dan dokumen PDF.
+Aplikasi chat modern dan responsif yang dibangun dengan Next.js 16 App Router, React, dan Tailwind CSS. Mendukung berbagai jenis pesan termasuk teks, gambar, video, dan dokumen PDF.
 
 [Demo](#-demo) • [Fitur](#-fitur) • [Instalasi](#-instalasi) • [Dokumentasi](#-dokumentasi)
 
