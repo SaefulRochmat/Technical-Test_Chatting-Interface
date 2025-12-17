@@ -70,10 +70,10 @@ Aplikasi chat modern dan responsif yang dibangun dengan Next.js 16 App Router, R
 
 | Teknologi | Versi | Deskripsi |
 |-----------|-------|-----------|
-| [Next.js](https://nextjs.org/) | 14.0.4 | React framework dengan App Router |
-| [React](https://react.dev/) | 18.2.0 | Library untuk membangun UI |
-| [Tailwind CSS](https://tailwindcss.com/) | 3.4.0 | Utility-first CSS framework |
-| [Lucide React](https://lucide.dev/) | 0.263.1 | Icon library untuk React |
+| [Next.js](https://nextjs.org/) | 16.0.10 | React framework dengan App Router |
+| [React](https://react.dev/) | 19.2.1 | Library untuk membangun UI |
+| [Tailwind CSS](https://tailwindcss.com/) | 4 | Utility-first CSS framework |
+| [Lucide React](https://lucide.dev/) | 0.561.0 | Icon library untuk React |
 
 ---
 
